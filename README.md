@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Eduardo. I'm from Brazil
 - 👀 I am entering the world of technology, my English is not very good, but I know that I am on the right path.
-- 🌱 learning Python and Javascript, trying to be a Data Scientist
 - 💞️ Starting with simple things to arrive at great real things
 - 📫 That's my instagram ==> www.instagram.com/eduardo__domiciano/ say hello to me \o/
 
