@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Eduardo. I'm from Brazil
-- 👀 I am entering the world of technology, my English is not very good, but I know that I am on the right path.
-- 💞️ Starting with simple things to arrive at great real things
+- 👋 Oi, meu nome é Eduardo e eu ando treinando meu "Hello world" por aqui.
+- 👀 Comecei aprendendo programação em 2020, iniciando com Java Script e...  é isso.
+- 💞️ "Starting with simple things to arrive at great real things"
 - 📫 That's my instagram ==> www.instagram.com/eduardo__domiciano/ say hello to me \o/
 
 <!---
