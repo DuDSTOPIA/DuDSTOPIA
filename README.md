@@ -20,9 +20,7 @@
 
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Static Badge](https://img.shields.io/badge/Pentest-000000?style=for-the-badge&logo=tryhackme)
-
+[<img src="https://tryhackme-badges.s3.amazonaws.com/EduardoDomiciano.png" alt="TryHackMe">](https://tryhackme.com/p/EduardoDomiciano)
+[![Static Badge](https://img.shields.io/badge/Pentest-000000?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/EduardoDomiciano)
 
 
